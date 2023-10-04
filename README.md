@@ -58,6 +58,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/YadaCoder/YadaCoder/output/snake.svg" alt="Snake animation" />
-
 ###
