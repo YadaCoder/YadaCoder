@@ -3,12 +3,12 @@
 </div>
 
 
-###
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/YadaCoder/count.svg?"  />
 </div>
-###
+
 
 <div align="left">
   <a href="https://discord.com/users/463113132869550091" target="_blank">
