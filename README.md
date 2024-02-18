@@ -38,4 +38,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadacoder&show_icons=true&locale=en" alt="yadacoder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadacoder&" alt="yadacoder" /></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YadaCoder&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
