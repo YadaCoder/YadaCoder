@@ -15,13 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [yadacoder.com](yadacoder.com)
 
-- 📝 I regularly write articles on [blog.yadacoder.com](blog.yadacoder.com)
-
 - 💬 Ask me about **anything related to MEVN, Meteor & React stacks**
 
 - 📫 How to reach me **info@yadacoder.com**
-
-- 📄 Know about my experiences [resume.yadacoder.com](resume.yadacoder.com)
 
 
 <h3 align="left">Connect with me:</h3>
