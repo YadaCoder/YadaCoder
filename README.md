@@ -13,7 +13,6 @@
 
 - 👯 I’m looking to collaborate on **any Web apps**
 
-- 👨‍💻 All of my projects are available at [yadacoder.com](yadacoder.com)
 
 - 💬 Ask me about **anything related to MEVN, Meteor & React stacks**
 
