@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **anything related to MEVN, Meteor & React stacks**
 
-- 📫 How to reach me **info@yadacoder.com**
+- 📫 How to reach me **info@yadhersh.com**
 
 
 <h3 align="left">Connect with me:</h3>
