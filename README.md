@@ -34,8 +34,16 @@ Here are some of the key technologies I work with:
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yadacoder&show_icons=true&theme=nord&hide_border=false&count_private=true" alt="Yad's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadacoder&theme=nord&hide_border=false" alt="Yad's GitHub Streak"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=yadacoder&show_icons=true&theme=nord&hide_border=false&count_private=true" alt="Yad's GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadacoder&theme=nord&hide_border=false" alt="Yad's GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
