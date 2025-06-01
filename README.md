@@ -3,7 +3,7 @@
     <img src="https://avatars.githubusercontent.com/u/134747225?v=4" width="120px;" alt="Yad Hersh" style="border-radius:50%;"/>
   </a>
   <h1>Hi, I'm Yad Hersh 👋</h1>
-  <p>A passionate Full Stack Developer based in Sulaymaniyah, Iraq.</p>
+  <p>Full Stack Developer based in Sulaymaniyah, Iraq.</p>
 </div>
 
 ---
